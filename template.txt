@@ -1,0 +1,11 @@
+🎤🎶 ¡Hola! Buenos días {name}, el siguiente es un recordatorio de confirmación de tu clase:
+
+✅ Clase reservada:
+📅 Día: {day}
+⏰ Hora: {hour}
+📍 Salón: {location}
+🎹 Instrumento: {instrument}
+
+Por favor confirma tu asistencia. 
+
+¡Nos vemos en clase! 🎵😊
